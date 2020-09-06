@@ -1,0 +1,1 @@
+require('./scripts/numbers').printValuesFrom1to100()
