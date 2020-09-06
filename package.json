@@ -1,0 +1,34 @@
+{
+  "name": "skimmia-challenge",
+  "description": "Skimmia Challenge",
+  "version": "0.1.0",
+  "homepage": "https://github.com/eduardorr97/skimmia-challenge",
+  "author": {
+    "name": "Eduardo",
+    "email": "erreyesorg@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eduardorr97/skimmia-challenge.git"
+  },
+  "bugs": {
+    "url": "https://github.com/eduardorr97/skimmia-challenge/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/eduardorr97/skimmia-challenge/blob/master/LICENSE-MIT"
+    }
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^26.4.2"
+  },
+  "keywords": []
+}
